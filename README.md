@@ -127,5 +127,3 @@ Python Developer | Beginner Backend Developer
 #OpenSource
 #GitHubProject
 #Programming
-
-If you want, I can also make a more professional + advanced version for your portfolio to attract freelance clients 😉
